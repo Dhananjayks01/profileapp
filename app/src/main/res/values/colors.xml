@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Background">#010414</color>
+    <color name="Tittlebar">#200d2d</color>
+    <color name="border">#383C47</color>
+    <color name="bio">#ECA185</color>
+    <color name="border2">#05554B</color>
+    <color name="text">#C2C4DE</color>
+    <color name="button">#00dfc4</color>
+</resources>
